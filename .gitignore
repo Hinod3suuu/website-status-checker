@@ -1,0 +1,20 @@
+# Generated website status reports
+results.json
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+
+# Local backup files
+*.backup.js
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,21 @@
+{
+    "name": "website-status-checker",
+    "version": "1.0.0",
+    "description": "A lightweight Node.js CLI tool for checking website availability, HTTP status codes, and response times.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "website-monitoring",
+        "http",
+        "https",
+        "status-checker",
+        "networking",
+        "cli",
+        "nodejs"
+    ],
+    "author": "Hinodesuuu",
+    "license": "MIT",
+    "type": "commonjs"
+}
